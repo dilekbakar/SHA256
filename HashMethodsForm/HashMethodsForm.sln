@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashMethodsForm", "HashMethodsForm\HashMethodsForm.csproj", "{9C2CDB64-C4AF-42A6-8F6C-EFE5DF066240}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C2CDB64-C4AF-42A6-8F6C-EFE5DF066240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C2CDB64-C4AF-42A6-8F6C-EFE5DF066240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C2CDB64-C4AF-42A6-8F6C-EFE5DF066240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C2CDB64-C4AF-42A6-8F6C-EFE5DF066240}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FF9BF50-1807-48B6-A7F2-4B8E77A1D947}
+	EndGlobalSection
+EndGlobal
